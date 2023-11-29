@@ -1,2 +1,3 @@
-streamlit==0.87.0
-qrcode[pil]==7.2
+streamlit
+pandas
+qrcode[pil]
